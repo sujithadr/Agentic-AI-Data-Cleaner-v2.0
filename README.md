@@ -78,8 +78,7 @@ OPENAI_API_KEY=your-key-here
 docker-compose up --build
 ```
 
-- FastAPI available at: http://localhost:8000/docs
-- Streamlit UI at: http://localhost:8501
+
 
 ---
 
